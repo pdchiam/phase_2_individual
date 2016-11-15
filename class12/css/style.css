@@ -1,0 +1,9 @@
+.blueText {
+    color: cornflowerblue;
+    font-size: 1.6em;
+}
+
+input {
+    display: block;
+    margin: 15px;
+}

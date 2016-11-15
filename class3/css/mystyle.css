@@ -1,0 +1,9 @@
+.jumbotron {
+    color: blue;
+    background-image: url("../img/background.jpg");
+
+}
+
+.well {
+    background-color: white;
+}

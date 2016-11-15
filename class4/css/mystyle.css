@@ -1,0 +1,17 @@
+.col1 {
+    background-color: lightblue;
+    
+}
+
+.col2 {
+    background-color: beige;
+}
+
+.col3 {
+    background-color: lightpink;
+}
+
+.col1, .col2, .col3 {
+    border: 2px solid black;
+    
+}
