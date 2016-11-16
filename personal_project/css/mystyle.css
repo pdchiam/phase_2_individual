@@ -5,6 +5,7 @@ body {
     background-image: url("../images/world_map.jpg");
     background-size: cover;
     background-position: center;
+    text-shadow: 2px 2px 4px #000000;
     
 }
 
@@ -12,9 +13,7 @@ body {
     color: #FFF;
 }
 
-h1, h3 {
-    text-shadow: 2px 2px 4px #000000;
-}
+
 
 img {
     width: 150px;
